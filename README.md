@@ -1,6 +1,6 @@
 👋 Hi, I’m Amit. 
 
-- I'm a Software Engineer with 12+ years experience designing, implementing and maintaining software systems in a fast paced environment as SDE at Amazon and Navigating Care (health care startup). 
+- I'm a Software Engineer with 15+ years experience designing, implementing and maintaining software systems in a fast paced environment as SDE at Amazon and Navigating Care (health care startup). 
 - I'm passionate about delivering results, software quality, testing, mentoring, UX, well designed APIs. 
 
 I'm interested in *individual contributor roles* at companies with 
@@ -8,7 +8,7 @@ I'm interested in *individual contributor roles* at companies with
 - collabarative working culture
 - great work / life balance
 - ability for me to learn grow and share my knowledge
-- limit or no on-call
+- limited or no on-call
 
 Technical Skills :
 - Technologies : Java, Spring Boot, Golang, Ruby on Rails, MySQL, Oracle, PostGres, REST / GraphQL APIs, Rspec/Cucumber, MongoDB
